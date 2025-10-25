@@ -1,11 +1,4 @@
-# Edge Detection using NVIDIA NPP with CUDA
-
-| edges| generated from |
-|-|-|
-| ![edges image](data/Lena_edge.png) | ![original image](data/Lena.png) |
-|||
-
-You can also find a demo-video [here](https://youtu.be/jUtQt9ZvPe0), with the input-video [here](https://youtu.be/tQldJe16lGg).
+# Using NVIDIA NPP with CUDA for Edge Detection
 
 ## Overview
 
@@ -105,5 +98,6 @@ To clean up the compiled binaries and other generated files, run:
 ```bash
 make clean
 ```
+
 
 This will remove all files in the bin/ directory.
